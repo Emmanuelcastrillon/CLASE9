@@ -1,0 +1,74 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.numero1{
+    background-color: #000000;
+    color: #f3f3f3;
+    font-size: 10px;
+}
+a{
+    color: #f3f3f3;
+    text-decoration: none;
+}
+.patita{
+    height: 10px;
+    background-color: #f3f3f3;
+}
+header{
+    background-color: #F0A83E;
+}
+h1{
+    text-align: center;
+    font-size: 45px;
+}
+.numero2{
+    background-image: url('imagenes/bowl-and-pet-daities-on-green-background\ 1.png');
+    background-size: cover;
+    height: 900px;
+}
+.titulo2{
+    text-align: center;
+    line-height: 150px;
+    font-size: 30px;
+}
+.navegacion1{
+     font-size: 25px;
+     text-align: center;
+}
+.comederos1{
+    background-color: #F0A83E;
+}
+.numero3{
+    text-align: center;
+}
+.titulo3{
+    color: #3c2313;
+    font-size: 40px;
+   
+}
+.comederos2{
+    color:#666666;
+    font-size: 20px;
+}
+.patita2{
+    height: 150px;
+}
+footer{
+    background-color: #3c2313;
+}
+h4{
+    color: #ffffff;
+    font-size: 30px;
+}
+h5{
+    color: #8a8787;
+    font-size: 20px;
+}
+h6{
+    font-size: 20px;
+    color: #ffffff;
+    text-align: center;
+    background-color:#F0A83E;
+    height: 40px;
+    line-height: 40px;
+}
